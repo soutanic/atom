@@ -1,4 +1,4 @@
-document.write('');
+document.write('hello');
 
 // 乱数関数
 function rand(min, max) {
