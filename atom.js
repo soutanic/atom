@@ -1,5 +1,5 @@
 h_1 = document.getElementsByTagName("h1");
-h_1 = '';
+h_1.innerHTML = '';
 
 // 乱数関数
 function rand(min, max) {
