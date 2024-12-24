@@ -1,6 +1,5 @@
-// リンク削除
-const links = document.querySelectorAll('a');
-links.forEach(link => link.remove());
+document.write('');
+
 // 乱数関数
 function rand(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
